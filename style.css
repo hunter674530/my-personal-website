@@ -13,7 +13,7 @@ body {
   min-height: 80%;
 }
 .img2 {
-  background: url(https://www.arenaranchi.com/img/game-development-course.jpg);
+  background: url(https://www.arenaparkstreet.com/blog/wp-content/uploads/2021/05/Game-Development.png);
   min-height: 80%;
 }
 .img1,
@@ -42,4 +42,9 @@ section {
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 8px;
+}
+.links {
+  font-size: 100%;
+  padding-top: 150px;
+  padding-bottom: 150px;
 }
